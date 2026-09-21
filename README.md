@@ -1,7 +1,9 @@
 <<<<<<< HEAD
 # Mi Proyecto Favorito
-
-Elegí este proyecto porque me gusta aprender sobre programación y quiero practicar lo aprendido.
+cosas que le gustan a demian por que lo hizo mal 
+las chivas
+pollo a la naranja
+galletas que son cajeta
 =======
 # mi-proyecto-favorito
 
